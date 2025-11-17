@@ -4,7 +4,7 @@
 		"description": "",
 		"link": "https://open.spotify.com/episode/6T85LSUipAOfd61En5FKLS?si=d7f21032ddca4a1f",
 		"imgUrl": "https://raw.githubusercontent.com/pjmscontact/PjmWebsiteContent/refs/heads/main/data/carousels/images/RIT%20Poster.png",
-		"buttonAction": "spotify",
+		"buttonAction": "listen on Spotify",
 		"active": true
 	},
 	{
@@ -12,7 +12,7 @@
 		"description": "",
 		"link": "https://youtu.be/6WPzfFxh-uk",
 		"imgUrl": "https://raw.githubusercontent.com/pjmscontact/PjmWebsiteContent/refs/heads/main/data/carousels/images/YouTube%20Slide.png",
-		"buttonAction": "youtube",
+		"buttonAction": "Watch on YouTube",
 		"active": true
 	},
 	{
