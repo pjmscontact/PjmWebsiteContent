@@ -16,11 +16,19 @@
 		"active": true
 	},
 	{
+		"title": "Losing An Enemy - Iran, The US and Israel: Conversation with Dr Trita Parsi",
+		"description": "",
+		"link": "https://youtu.be/sHZgZvvEvrw",
+		"imgUrl": "https://raw.githubusercontent.com/pjmscontact/PjmWebsiteContent/refs/heads/main/data/carousels/images/Poster_V2.png",
+		"buttonAction": "Watch on YouTube",
+		"active": true
+	},
+	{
 		"title": "PJMS radio show Pulse of Palestine won the 2025 CBAA awards for Best Program: Talks!",
 		"description": "",
 		"link": "https://www.cbaa.org.au/membership/awards",
 		"imgUrl": "https://raw.githubusercontent.com/pjmscontact/PjmWebsiteContent/refs/heads/main/data/carousels/images/pULSE%20OF%20pALESTINE.png",
-		"buttonAction": "link",
+		"buttonAction": "Read More",
 		"active": true
 	}
 ]
