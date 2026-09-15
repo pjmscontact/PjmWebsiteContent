@@ -22,8 +22,8 @@ content:
         label: Cover image
         type: image
         options:
-          media: images
-          path: /media/images/carouselsss
+          media: carousels
+          path: /media/images/carousels
       - name: buttonAction
         type: select
         options: 
