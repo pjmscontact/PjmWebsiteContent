@@ -14,6 +14,11 @@ content:
         type: string
       - name: imgUrl
         type: string
+      - name: image
+        type: image
+        options:
+          media: images
+          path: public/images/carousels
       - name: buttonAction
         type: select
         options: 
