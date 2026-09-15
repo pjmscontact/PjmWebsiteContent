@@ -23,7 +23,7 @@ content:
         type: image
         options:
           media: images
-          path: media/images/carousels
+          path: /media/images/carousels
       - name: buttonAction
         type: select
         options: 
