@@ -19,6 +19,7 @@ content:
       - name: imgUrl
         type: string
       - name: image
+        label: Cover image
         type: image
         options:
           media: images
