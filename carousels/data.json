@@ -1,4 +1,21 @@
-{
-  "title": "tet",
-  "active": true
-}
+[
+  {
+    "title": "test",
+    "description": "tste",
+    "link": "tset",
+    "imgUrl": "tset",
+    "image": "/media/images/carousels/RIT poster.png",
+    "buttonAction": "Watch on YouTube",
+    "active": true
+  },
+  {
+    "title": "hewrtet",
+    "description": "asfag",
+    "imgUrl": "gaagag",
+    "buttonAction": "Send an Email",
+    "active": true
+  },
+  {
+    "active": true
+  }
+]
