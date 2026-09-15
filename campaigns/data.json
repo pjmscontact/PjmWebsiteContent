@@ -1,0 +1,9 @@
+[
+  {
+    "title": "test",
+    "description": "tetset",
+    "image": "/media/images/campaigns/test.png",
+    "buttonAction": "Send an Email",
+    "active": true
+  }
+]
