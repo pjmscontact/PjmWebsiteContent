@@ -9,7 +9,6 @@ content:
     label: carousels
     type: file
     path: carousels/data.json
-    list: true
     fields:
       - name: title
         type: string
