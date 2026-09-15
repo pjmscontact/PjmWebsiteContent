@@ -19,7 +19,7 @@ content:
       - name: link
         type: string
       - name: image
-        label: Cover image
+        label:  image
         type: image
         options:
           media: carousels
@@ -45,10 +45,10 @@ content:
       - name: link
         type: string
       - name: image
-        label: Cover image
+        label:  image
         type: image
         options:
-          media: carousels
+          media: campaigns
           path: /media/images/campaigns
       - name: buttonAction
         type: select
@@ -64,6 +64,8 @@ content:
     format: json
     list: true
     fields:
+      - name: id
+        type: number
       - name: name
         type: string
       - name: description
@@ -71,10 +73,10 @@ content:
       - name: link
         type: string
       - name: image
-        label: Cover image
+        label: image
         type: image
         options:
-          media: carousels
+          media: donations
           path: /media/images/donations
       - name: buttonAction
         type: select
