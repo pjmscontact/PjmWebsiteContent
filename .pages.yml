@@ -1,4 +1,4 @@
-media:
+'T'HH:mmmedia:
   - name: carousels
     label: carousels
     input: media/images/carousels
@@ -112,6 +112,7 @@ content:
         type: date
         default: ""
         options:
-          format: yyyy-MM-dd
+          time: true 
+          format: yyyy-MM-dd'T'HH:mm
       - name: location
         type: string
