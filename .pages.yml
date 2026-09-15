@@ -20,10 +20,6 @@ carousels:
       - name: active
         type: boolean
         default: true
-
-
-
-
 campaigns:
   - name: campaigns
     label: campaigns
@@ -45,9 +41,6 @@ campaigns:
       - name: active
         type: boolean
         default: true
-        
-
-
 donations:
   - name: donations
     label: donations
@@ -69,10 +62,6 @@ donations:
       - name: active
         type: boolean
         default: true
-
-
-
-
 events:
   - name: events
     label: events
