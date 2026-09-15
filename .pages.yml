@@ -5,21 +5,11 @@ media:
     output: /media/images/carousels
 
 content:
-  - name: sections
-    label: Sections
-    type: object
-    list:
-      collapsible:
-      collapsed: true
-      summary: "{title} ({index})"
-    fields:
-      - name: title
-        type: string
   - name: carousels
     label: carousels
     type: collection
     path: carousels
-    filename: '{name}.json'
+    list: true
     fields:
       - name: title
         type: string
@@ -46,7 +36,6 @@ content:
     label: campaigns
     type: collection
     path: campaigns
-    filename: '{name}.json'
     fields:
       - name: title
         type: string
@@ -67,7 +56,6 @@ content:
     label: donations
     type: collection
     path: donations
-    filename: '{name}.json'     
     fields:
       - name: name
         type: string
@@ -88,7 +76,6 @@ content:
     label: events
     type: collection
     path: events
-    filename: '{name}.json'
     fields:
       - name: id
         type: number
@@ -106,5 +93,3 @@ content:
         format: dd-MM-yyyy'T'HH:mm
       - name: location
         type: string
-
-
