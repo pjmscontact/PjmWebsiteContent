@@ -113,6 +113,6 @@ content:
         default: ""
         options:
         time: true
-        format: hh:mm b - dd, MMMM, yyyy
+        format: dd-MM-yyyy'T'HH:mm
       - name: location
         type: string
