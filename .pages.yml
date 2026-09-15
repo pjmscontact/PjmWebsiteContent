@@ -22,7 +22,7 @@ content:
       - name: buttonAction
         type: select
         options: 
-          values: [Send an Email, Donate,Watch on YouTube]  
+          values: [Send an Email, Donate,Watch on YouTube, Listen on Spotify]  
       - name: active
         type: boolean
         default: true
@@ -42,7 +42,7 @@ content:
       - name: buttonAction
         type: select
         options: 
-          values: [Send an Email, Donate,Watch on YouTube]
+          values: [Send an Email, Donate,Watch on YouTube, Listen on Spotify]
       - name: active
         type: boolean
         default: true
@@ -62,7 +62,7 @@ content:
       - name: buttonAction
         type: select
         options: 
-          values: [Send an Email, Donate,Watch on YouTube]  
+          values: [Send an Email, Donate,Watch on YouTube, Listen on Spotify]  
       - name: active
         type: boolean
         default: true
