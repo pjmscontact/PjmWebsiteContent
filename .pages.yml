@@ -27,7 +27,7 @@ content:
       - name: link
         type: string
       - name: image
-        label:  image
+        label:  image (image name with out spcaes and special characters only underscore allowed)
         type: image
         options:
           media: carousels
@@ -53,7 +53,7 @@ content:
       - name: link
         type: string
       - name: image
-        label:  image
+        label:  image (image name with out spcaes and special characters only underscore allowed)
         type: image
         options:
           media: campaigns
@@ -81,7 +81,7 @@ content:
       - name: link
         type: string
       - name: image
-        label: image
+        label:  image (image name with out spcaes and special characters only underscore allowed)
         type: image
         options:
           media: donations
@@ -89,7 +89,7 @@ content:
       - name: buttonAction
         type: select
         options: 
-          values: [Send an Email, Donate,Watch on YouTube, Listen on Spotify,  Read More]  
+          values: [Send an Email, Donate,Watch on YouTube, Listen on Spotify, Read More]  
       - name: active
         type: boolean
         default: true
