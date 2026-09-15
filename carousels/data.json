@@ -2,7 +2,7 @@
   {
     "title": "Conversation with Professor Neve Gordon - The Weaponisation of the IHRA definition of anti-Semitism",
     "link": "https://youtu.be/D-H_UwhJR1I",
-    "image": "/media/images/carousels/Insta poster.png",
+    "image": "/media/images/carousels/Insta_poster.png",
     "buttonAction": "Watch on YouTube",
     "active": true
   },
@@ -16,7 +16,7 @@
   {
     "title": "Conversation with Professor John Keane and Dr Nick Riemer - The Weaponization of the Australian Courts to Progress Zionist Agenda.",
     "link": "https://youtu.be/6WPzfFxh-uk",
-    "image": "/data/carousels/images/YouTube Slide.png",
+    "image": "/media/images/carousels/YouTube_Slide.png",
     "buttonAction": "Watch on YouTube",
     "active": true
   },
@@ -30,7 +30,7 @@
   {
     "title": "PJMS radio show Pulse of Palestine won the 2025 CBAA award for Best Program: Talks!",
     "link": "https://www.cbaa.org.au/membership/awards",
-    "image": "/data/carousels/images/pULSE OF pALESTINE.png",
+    "image": "/media/images/carousels/PULSE_OF _PALESTINE.png",
     "buttonAction": "Send an Email",
     "active": true
   }
