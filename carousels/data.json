@@ -40,5 +40,12 @@
     "image": "data/carousels/images/pULSE OF pALESTINE.png",
     "buttonAction": "Send an Email",
     "active": true
+  },
+  {
+    "title": "testttttt",
+    "link": "helll",
+    "image": "/media/images/carousels/notification_logo.png",
+    "buttonAction": "Donate",
+    "active": true
   }
 ]
