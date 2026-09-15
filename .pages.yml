@@ -112,7 +112,6 @@ content:
         type: date
         default: ""
         options:
-          time: true
           format: yyyy-MM-dd
       - name: location
         type: string
