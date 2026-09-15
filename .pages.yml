@@ -5,6 +5,15 @@ media:
     output: /media/images/carousels
 
 content:
+  - name: sections
+    type: object
+    list:
+      collapsible:
+      collapsed: true
+      summary: "{title} ({index})"
+    fields:
+      - name: title
+        type: string
   - name: carousels
     label: carousels
     type: collection
@@ -96,3 +105,5 @@ content:
         format: dd-MM-yyyy'T'HH:mm
       - name: location
         type: string
+
+
