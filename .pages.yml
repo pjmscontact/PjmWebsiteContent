@@ -18,8 +18,6 @@ content:
         type: rich-text
       - name: link
         type: string
-      - name: imgUrl
-        type: string
       - name: image
         label: Cover image
         type: image
@@ -35,8 +33,10 @@ content:
         default: true
   - name: campaigns
     label: campaigns
-    type: collection
-    path: campaigns
+    type: file
+    path: campaigns/data.json
+    format: json
+    list: true
     fields:
       - name: title
         type: string
@@ -44,8 +44,12 @@ content:
         type: rich-text
       - name: link
         type: string
-      - name: imgUrl
-        type: string
+      - name: image
+        label: Cover image
+        type: image
+        options:
+          media: carousels
+          path: /media/images/campaigns
       - name: buttonAction
         type: select
         options: 
@@ -55,8 +59,10 @@ content:
         default: true
   - name: donations
     label: donations
-    type: collection
-    path: donations
+    type: file
+    path: donations/data.json
+    format: json
+    list: true
     fields:
       - name: name
         type: string
@@ -64,8 +70,12 @@ content:
         type: rich-text
       - name: link
         type: string
-      - name: imgUrl
-        type: string
+      - name: image
+        label: Cover image
+        type: image
+        options:
+          media: carousels
+          path: /media/images/donations
       - name: buttonAction
         type: select
         options: 
@@ -75,8 +85,10 @@ content:
         default: true
   - name: events
     label: events
-    type: collection
-    path: events
+    type: file
+    path: events/data.json
+    format: json
+    list: true
     fields:
       - name: id
         type: number
