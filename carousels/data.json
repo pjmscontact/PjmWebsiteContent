@@ -1,37 +1,47 @@
 [
-  {
-    "title": "Conversation with Professor Neve Gordon - The Weaponisation of the IHRA definition of anti-Semitism",
-    "link": "https://youtu.be/D-H_UwhJR1I",
-    "image": "data/carousels/images/Insta poster.png",
-    "buttonAction": "Watch on YouTube",
-    "active": true
-  },
-  {
-    "title": "Conversation with Professor Neve Gordon - The Weaponisation of the IHRA definition of anti-Semitism",
-    "link": "https://open.spotify.com/episode/7h258uhyhe1WfoHwcaI8jR?si=6c34d2ae96ff4dfd",
-    "image": "data/carousels/images/RIT poster.png",
-    "buttonAction": "Listen on Spotify",
-    "active": true
-  },
-  {
-    "title": "Conversation with Professor John Keane and Dr Nick Riemer - The Weaponization of the Australian Courts to Progress Zionist Agenda.",
-    "link": "https://youtu.be/6WPzfFxh-uk",
-    "image": "data/carousels/images/YouTube Slide.png",
-    "buttonAction": "Watch on YouTube",
-    "active": true
-  },
-  {
-    "title": "Losing An Enemy - Iran, The US and Israel: Conversation with Dr Trita Parsi",
-    "link": "https://youtu.be/sHZgZvvEvrw",
-    "image": "data/carousels/images/Poster_V2.png",
-    "buttonAction": "Watch on YouTube",
-    "active": true
-  },
-  {
-    "title": "PJMS radio show Pulse of Palestine won the 2025 CBAA award for Best Program: Talks!",
-    "link": "https://www.cbaa.org.au/membership/awards",
-    "image": "data/carousels/images/pULSE OF pALESTINE.png",
-    "buttonAction": "Send an Email",
-    "active": true
-  }
+
+	{
+		"title": "Conversation with Professor Neve Gordon - The Weaponisation of the IHRA definition of anti-Semitism",
+		"description": "",
+		"link": "https://youtu.be/D-H_UwhJR1I",
+		"image": "https://raw.githubusercontent.com/pjmscontact/PjmWebsiteContent/refs/heads/main/data/carousels/images/Insta%20poster.png",
+		"buttonAction": "Watch on YouTube",
+		"active": true
+	},
+	{
+		"title": "Conversation with Professor Neve Gordon - The Weaponisation of the IHRA definition of anti-Semitism",
+		"description": "",
+		"link": "https://open.spotify.com/episode/7h258uhyhe1WfoHwcaI8jR?si=6c34d2ae96ff4dfd",
+		"image": "https://raw.githubusercontent.com/pjmscontact/PjmWebsiteContent/refs/heads/main/data/carousels/images/RIT%20poster.png",
+		"buttonAction": "Listen on Spotify",
+		"active": true
+	},
+	{
+		"title": "Conversation with Professor John Keane and Dr Nick Riemer - The Weaponization of the Australian Courts to Progress Zionist Agenda.",
+		"description": "",
+		"link": "https://youtu.be/6WPzfFxh-uk",
+		"image": "https://raw.githubusercontent.com/pjmscontact/PjmWebsiteContent/refs/heads/main/data/carousels/images/YouTube%20Slide.png",
+		"buttonAction": "Watch on YouTube",
+		"active": true
+	},
+	{
+		"title": "Losing An Enemy - Iran, The US and Israel: Conversation with Dr Trita Parsi",
+		"description": "",
+		"link": "https://youtu.be/sHZgZvvEvrw",
+		"image": "https://raw.githubusercontent.com/pjmscontact/PjmWebsiteContent/refs/heads/main/data/carousels/images/Poster_V2.png",
+		"buttonAction": "Watch on YouTube",
+		"active": true
+	},
+	{
+		"title": "PJMS radio show Pulse of Palestine won the 2025 CBAA award for Best Program: Talks!",
+		"description": "",
+		"link": "https://www.cbaa.org.au/membership/awards",
+		"image": "https://raw.githubusercontent.com/pjmscontact/PjmWebsiteContent/refs/heads/main/data/carousels/images/pULSE%20OF%20pALESTINE.png",
+		"buttonAction": "Read More",
+		"active": true
+	}
+
+
+
+
 ]
