@@ -3,6 +3,14 @@ media:
     label: carousels
     input: media/images/carousels
     output: /media/images/carousels
+  - name: campaigns
+    label: campaigns
+    input: media/images/campaigns
+    output: /media/images/campaigns
+  - name: donations
+    label: donations
+    input: media/images/donations
+    output: /media/images/donations
 
 content:
   - name: carousels
