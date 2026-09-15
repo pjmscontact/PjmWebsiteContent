@@ -1,4 +1,8 @@
-media: media
+media:
+  - name: carousels
+    label: carousels
+    input: media/images/carousels
+    output: /media/images/carousels
 
 content:
   - name: carousels
@@ -18,7 +22,7 @@ content:
         type: image
         options:
           media: images
-          path: public/images/carousels
+          path: media/images/carousels
       - name: buttonAction
         type: select
         options: 
