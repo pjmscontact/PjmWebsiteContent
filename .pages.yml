@@ -10,7 +10,7 @@ content:
     type: file
     path: carousels/data.json
     format: json
-    list: trueue
+    list: true
     fields:
       - name: title
         type: string
