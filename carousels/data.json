@@ -1,12 +1,5 @@
 [
   {
-    "title": "test",
-    "link": "tset",
-    "image": "/media/images/carousels/RIT poster.png",
-    "buttonAction": "Watch on YouTube",
-    "active": true
-  },
-  {
     "title": "Conversation with Professor Neve Gordon - The Weaponisation of the IHRA definition of anti-Semitism",
     "link": "https://youtu.be/D-H_UwhJR1I",
     "image": "data/carousels/images/Insta poster.png",
@@ -39,13 +32,6 @@
     "link": "https://www.cbaa.org.au/membership/awards",
     "image": "data/carousels/images/pULSE OF pALESTINE.png",
     "buttonAction": "Send an Email",
-    "active": true
-  },
-  {
-    "title": "testttttt",
-    "link": "helll",
-    "image": "/media/images/carousels/notification_logo.png",
-    "buttonAction": "Donate",
     "active": true
   }
 ]
