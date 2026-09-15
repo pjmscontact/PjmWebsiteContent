@@ -53,7 +53,6 @@
     "title": "test",
     "description": "tttttt",
     "link": "google.com",
-    "date": "2026-09-24",
     "location": "sydney"
   },
   {
@@ -61,7 +60,7 @@
     "title": "99999",
     "description": "9999",
     "link": "999988",
-    "date": "2026-09-29",
+    "date": "2026-09-29T18:06",
     "location": "9999"
   }
 ]
