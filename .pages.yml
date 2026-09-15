@@ -9,6 +9,8 @@ content:
     label: carousels
     type: file
     path: carousels/data.json
+    format: json
+    list: trueue
     fields:
       - name: title
         type: string
