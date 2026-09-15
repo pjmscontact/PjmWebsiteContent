@@ -6,6 +6,7 @@ media:
 
 content:
   - name: sections
+    label: Sections
     type: object
     list:
       collapsible:
