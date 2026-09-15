@@ -1,5 +1,6 @@
 media: media
-carousels:
+
+content:
   - name: carousels
     label: carousels
     type: collection
@@ -20,7 +21,6 @@ carousels:
       - name: active
         type: boolean
         default: true
-campaigns:
   - name: campaigns
     label: campaigns
     type: collection
@@ -41,7 +41,6 @@ campaigns:
       - name: active
         type: boolean
         default: true
-donations:
   - name: donations
     label: donations
     type: collection
@@ -62,7 +61,6 @@ donations:
       - name: active
         type: boolean
         default: true
-events:
   - name: events
     label: events
     type: collection
