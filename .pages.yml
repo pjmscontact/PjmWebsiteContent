@@ -1,11 +1,97 @@
 media: media
-content:
-  - name: pages
-    label: Pages
+carousels:
+  - name: carousels
+    label: carousels
     type: collection
-    path: docs
+    path: carousels
     fields:
       - name: title
         type: string
-      - name: body
+      - name: description
         type: rich-text
+      - name: link
+        type: string
+      - name: imgUrl
+        type: string
+      - name: buttonAction
+        type: select
+        options: 
+          values: [Send an Email, Donate,Watch on YouTube]  
+      - name: active
+        type: boolean
+        default: true
+
+
+
+
+campaigns:
+  - name: campaigns
+    label: campaigns
+    type: collection
+    path: campaigns
+    fields:
+      - name: title
+        type: string
+      - name: description
+        type: rich-text
+      - name: link
+        type: string
+      - name: imgUrl
+        type: string
+      - name: buttonAction
+        type: select
+        options: 
+          values: [Send an Email, Donate,Watch on YouTube]
+      - name: active
+        type: boolean
+        default: true
+        
+
+
+donations:
+  - name: donations
+    label: donations
+    type: collection
+    path: donations
+    fields:
+      - name: name
+        type: string
+      - name: description
+        type: rich-text
+      - name: link
+        type: string
+      - name: imgUrl
+        type: string
+      - name: buttonAction
+        type: select
+        options: 
+          values: [Send an Email, Donate,Watch on YouTube]  
+      - name: active
+        type: boolean
+        default: true
+
+
+
+
+events:
+  - name: events
+    label: events
+    type: collection
+    path: events
+    fields:
+      - name: id
+        type: number
+      - name: title
+        type: string
+      - name: description
+        type: rich-text
+      - name: link
+        type: string
+      - name: date
+        type: date
+        default: ""
+        options:
+        time: true
+        format: dd-MM-yyyy'T'HH:mm
+      - name: location
+        type: string
